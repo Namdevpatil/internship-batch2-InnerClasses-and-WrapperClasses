@@ -1,0 +1,2 @@
+1. outer class private fields can access by inner class.
+2. if this we code, the program readability and maintainability good.
